@@ -1,0 +1,2 @@
+strategy,size,overlap,avg_latency_ms,p95_latency_ms,avg_tokens,avg_retrieval_score,avg_answer_quality,success_rate
+structural,-,-,2138.7552738189697,3035.5330705642696,932.3,0.598131332397461,1.0,1.0

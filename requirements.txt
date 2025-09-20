@@ -1,0 +1,10 @@
+flask
+flask-cors
+openai
+sentence-transformers
+chromadb
+scikit-learn
+tiktoken
+numpy
+python-dotenv
+gunicorn

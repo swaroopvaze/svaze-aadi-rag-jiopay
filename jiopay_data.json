@@ -1,0 +1,62 @@
+[
+  {
+    "question": "How do I complete KYC verification on JioPay?",
+    "answer": "To complete KYC verification on JioPay: 1) Open the JioPay app and go to Profile section. 2) Select 'KYC Verification' option. 3) Upload a clear photo of your Aadhaar card (both front and back). 4) Upload a clear photo of your PAN card. 5) Take a selfie for identity verification. 6) Submit all documents for review. The verification process typically takes 24-48 hours. You'll receive a notification once your KYC is approved. Ensure all document images are clear and readable for faster processing."
+  },
+  {
+    "question": "What are the different payment methods available on JioPay?",
+    "answer": "JioPay supports multiple payment methods: 1) UPI payments - Link your bank account for instant transfers. 2) Debit/Credit Cards - Visa, Mastercard, RuPay cards accepted. 3) Net Banking - All major banks supported including SBI, HDFC, ICICI, Axis Bank. 4) JioPay Wallet - Add money to your digital wallet for quick payments. 5) QR Code payments - Scan and pay at merchant locations. 6) NEFT/RTGS for larger transactions. All payments are secured with 256-bit SSL encryption and two-factor authentication."
+  },
+  {
+    "question": "How do I add money to my JioPay wallet?",
+    "answer": "To add money to your JioPay wallet: 1) Open JioPay app and tap on 'Add Money'. 2) Enter the amount you want to add (minimum ₹10, maximum ₹10,000 per transaction). 3) Choose your preferred payment method - debit card, credit card, net banking, or UPI. 4) Enter payment details and authenticate the transaction. 5) Money will be instantly credited to your JioPay wallet. You can add up to ₹20,000 per month for KYC-verified accounts. Transaction charges may apply based on the payment method selected."
+  },
+  {
+    "question": "How do I request a refund for a failed transaction?",
+    "answer": "For refund requests on failed transactions: 1) Go to 'Transaction History' in your JioPay app. 2) Find the failed transaction and tap on it. 3) Select 'Report Issue' or 'Request Refund'. 4) Fill out the refund form with transaction details and reason. 5) Attach any supporting documents if required. 6) Submit the request. Refunds are typically processed within 5-7 working days. For urgent cases, contact customer support at 1800-XXX-XXXX. Keep your transaction ID ready for faster resolution."
+  },
+  {
+    "question": "What security measures does JioPay have in place?",
+    "answer": "JioPay implements multiple layers of security: 1) 256-bit SSL encryption for all transactions. 2) Two-factor authentication (2FA) for login and payments. 3) Biometric authentication support (fingerprint/face unlock). 4) Real-time fraud monitoring and suspicious activity alerts. 5) PCI DSS compliance for card data security. 6) Device binding to prevent unauthorized access. 7) Transaction limits and controls. 8) 24/7 security monitoring. Your sensitive data is never stored on the device and all payments require additional verification through OTP or biometric authentication."
+  },
+  {
+    "question": "What are the transaction limits on JioPay?",
+    "answer": "JioPay transaction limits vary by verification level: For Basic KYC users: ₹10,000 per transaction, ₹25,000 per day, ₹1,00,000 per month. For Full KYC users: ₹1,00,000 per transaction, ₹2,00,000 per day, ₹10,00,000 per month. UPI transactions: ₹1,00,000 per transaction regardless of KYC level. Wallet loading limits: ₹10,000 per transaction, ₹20,000 per month for KYC-verified users. These limits are set by RBI regulations and may be updated periodically. Contact customer support for any limit-related queries."
+  },
+  {
+    "question": "How do I link my bank account to JioPay?",
+    "answer": "To link your bank account to JioPay: 1) Open JioPay app and go to 'Bank Accounts' section. 2) Tap on 'Add Bank Account'. 3) Select your bank from the list of supported banks. 4) Enter your account number and IFSC code. 5) Verify using debit card details or net banking credentials. 6) Complete verification through OTP sent to your registered mobile number. 7) Your account will be linked within 24 hours. Ensure your mobile number is registered with the bank for successful linking. You can link up to 3 bank accounts with a single JioPay profile."
+  },
+  {
+    "question": "How do I pay utility bills through JioPay?",
+    "answer": "To pay utility bills via JioPay: 1) Open the app and select 'Bill Payments'. 2) Choose bill category - electricity, water, gas, postpaid mobile, DTH, broadband, etc. 3) Select your service provider from the list. 4) Enter your customer ID/account number. 5) Fetch bill details to view amount due. 6) Choose payment method and complete payment. 7) Save the biller for future quick payments. JioPay supports 100+ billers across categories. You'll receive instant payment confirmation and can download receipts for your records."
+  },
+  {
+    "question": "What should I do if I forget my JioPay PIN?",
+    "answer": "If you forget your JioPay PIN: 1) Open JioPay app and tap on 'Forgot PIN' at login screen. 2) Enter your registered mobile number. 3) Verify identity using OTP sent to your mobile. 4) Answer security questions or use biometric verification. 5) Create a new 4-digit PIN. 6) Confirm the new PIN by entering it again. 7) Your PIN will be updated immediately. For additional security, you may be required to re-verify your identity through KYC documents. Keep your PIN confidential and don't share it with anyone."
+  },
+  {
+    "question": "How do I enable/disable transaction notifications?",
+    "answer": "To manage transaction notifications in JioPay: 1) Go to 'Settings' in the app menu. 2) Select 'Notifications' or 'Alert Settings'. 3) Toggle options for different types of notifications - transaction alerts, promotional messages, security alerts, bill reminders. 4) Choose notification method - SMS, email, or push notifications. 5) Set transaction amount thresholds for alerts. 6) Save your preferences. You can customize notifications based on transaction types and amounts. SMS alerts may incur charges as per your telecom operator. Push notifications are free and recommended for instant updates."
+  },
+  {
+    "question": "How do I check my JioPay transaction history?",
+    "answer": "To view your JioPay transaction history: 1) Open JioPay app and tap on 'Transaction History' or 'Passbook'. 2) View all recent transactions with details like amount, date, time, and status. 3) Use filters to sort by date range, transaction type, or amount. 4) Tap on any transaction for detailed information. 5) Download transaction receipts or statements. 6) Export transaction history as PDF for records. You can view up to 12 months of transaction history. For older records, contact customer support or access web portal with your login credentials."
+  },
+  {
+    "question": "What is JioPay QR code and how do I use it?",
+    "answer": "JioPay QR code enables quick payments: 1) To pay: Open JioPay app and tap 'Scan QR'. Point camera at merchant's QR code, enter amount, and confirm payment. 2) To receive payments: Go to 'Receive Money' and share your QR code. Others can scan and pay you instantly. 3) Dynamic QR codes are generated for each transaction for security. 4) Static QR codes can be printed for businesses. 5) QR payments work with any UPI-enabled app. All QR transactions are secured and processed through UPI rails. Keep your QR code safe and don't share screenshots publicly."
+  },
+  {
+    "question": "How do I contact JioPay customer support?",
+    "answer": "JioPay customer support can be reached through multiple channels: 1) In-app chat support - Go to 'Help & Support' in the app for instant assistance. 2) Customer care helpline: 1800-XXX-XXXX (toll-free, available 24/7). 3) Email support: support@jiopay.com for detailed queries. 4) Visit nearest Jio store for in-person assistance. 5) Social media channels @JioPayOfficial. 6) FAQ section in the app covers common queries. For transaction disputes, keep your transaction ID ready. Response time is typically within 24 hours for email queries and instant for in-app chat."
+  },
+  {
+    "question": "Can I use JioPay for international transactions?",
+    "answer": "Currently, JioPay primarily supports domestic transactions within India. International features include: 1) International mobile recharges for select countries. 2) Remittance services through partner networks (limited availability). 3) Online shopping on international websites that accept Indian payment methods. 4) Travel-related bookings for international destinations. Direct international money transfers and overseas card usage are not supported. For international transactions, consider using Jio's partner services or other specialized international payment platforms. Check the app regularly for updates on international service expansion."
+  },
+  {
+    "question": "How do I set up automatic bill payments on JioPay?",
+    "answer": "To set up automatic bill payments (AutoPay) on JioPay: 1) Go to 'Bill Payments' and select your biller. 2) Pay the bill once manually and select 'Enable AutoPay'. 3) Choose AutoPay frequency - monthly, bi-monthly, etc. 4) Set payment date (before due date recommended). 5) Select default payment method and set spending limits. 6) Review and confirm AutoPay setup. Bills will be automatically paid from your selected payment source. You'll receive notifications before each AutoPay transaction. You can modify or cancel AutoPay anytime from 'Manage AutoPay' section."
+  }
+]

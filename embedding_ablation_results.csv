@@ -1,0 +1,2 @@
+provider,model,avg_latency_ms,p95_latency_ms,avg_tokens,avg_retrieval_score,avg_answer_quality,success_rate
+openai,text-embedding-3-small,1943.0067300796509,2749.313747882842,934.7,0.5981439739465714,1.0,1.0
