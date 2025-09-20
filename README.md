@@ -2,6 +2,8 @@
 
 A production-grade Retrieval-Augmented Generation (RAG) chatbot for JioPay customer support, built with Flask, OpenAI, and ChromaDB.
 
+Huggingface live app: https://huggingface.co/spaces/svaze/jiopay-support-assistant
+(little different UI and api key use because of free api-key contraint)
 ## 🚀 Features
 
 - **Advanced RAG Pipeline**: Implements retrieval-augmented generation with multiple chunking strategies
@@ -288,3 +290,4 @@ For issues and questions:
 ---
 
 **Built with ❤️ for JioPay Customer Support**
+
